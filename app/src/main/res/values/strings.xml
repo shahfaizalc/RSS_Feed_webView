@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rss</string>
+    <string name="bloglist_item_creator">Creator : %s</string>
+    <string name="network_ErrorMsg">You appear to be offline. Please check your internet settings.</string>
+    <string name="rssblog_list_retry">Sorry, something went wrong. Please try again later.\nPlease also check your internet settings. </string>
+    <string name="rsshome_hint">Please wait… We are loading list of Articles for you</string>
+    <string name="rssblog_web_error">Sorry for the inconvenience.\nThe Webpage is not available</string>
+    <string name="shareInfo">Checkout Fairphone\'s article on </string>
+    <string name="shareVia">Share Via </string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+<channel>
+<title>Fairphone</title>
+<atom:link href="https://www.fairphone.com/en/feed/" rel="self" type="application/rss+xml" />
+<link>https://www.fairphone.com/en/</link>
+<description>Fairphone &#124; Buy a phone, join a movement</description>
+<lastBuildDate>Fri, 19 Jul 2019 16:13:28 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+<url>https://www.fairphone.com/wp-content/uploads/2016/09/cropped-favicon_wp-32x32.png</url>
+<title>Fairphone</title>
+<link>https://www.fairphone.com/en/</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>Rethinking plastic waste</title>
+<link>https://www.fairphone.com/en/2019/07/19/rethinking-plastic-waste/</link>
+<pubDate>Fri, 19 Jul 2019 16:01:05 +0000</pubDate>
+<dc:creator><![CDATA[Jan]]></dc:creator>
+<category><![CDATA[All]]></category>
+
+<guid isPermaLink="false">https://www.fairphone.com/?p=44058</guid>
+<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.fairphone.com/en/2019/07/19/rethinking-plastic-waste/">Rethinking plastic waste</a> appeared first on <a rel="nofollow" href="https://www.fairphone.com/en/">Fairphone</a>.</p>
+]]></description>
+<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://www.fairphone.com/en/2019/07/19/rethinking-plastic-waste/">Rethinking plastic waste</a> appeared first on <a rel="nofollow" href="https://www.fairphone.com/en/">Fairphone</a>.</p>
+]]></content:encoded>
+</item>
+</channel>
+</rss>
